@@ -67,5 +67,6 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
+blogTeaser: A beginners’ guide to brewing with Chemex
 ---
 
